@@ -1,1 +1,1 @@
-1 лр по html і css
+4 лр по html і css
